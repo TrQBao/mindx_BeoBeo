@@ -1,0 +1,48 @@
+#heading {
+    color: brown;
+    text-align: center;
+    border-style: double;
+    border-color: brown;
+    background-color: wheat;
+    border-width: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+li {
+    margin-left: 170px;
+}
+
+#w1 {
+    color: red;   
+}
+
+#a{
+    border: 2px solid blue;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+#b{
+    border: 2px solid blue;
+    background-color: aquamarine;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+h2, p {
+    margin-left: 300px;
+}
+
+
+

@@ -1,0 +1,25 @@
+/* #id */
+/* .text */
+/* h1, p, .text */
+
+
+/* .center, p {
+ text-align: center;
+} */
+
+/* #heading-special {
+    display: none;
+} */
+
+li {
+    display: inline-block;
+    border: 5px solid green;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+
+}
+
+/* #span-1 {
+    display: block;
+} */
